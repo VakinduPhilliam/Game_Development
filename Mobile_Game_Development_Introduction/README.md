@@ -1,9 +1,10 @@
 
-An Introduction to mobile game development.
+# An Introduction to mobile game development.
 In this step-by-step tutorial we create a simple 'Breakout' game written entirely in pure JavaScript and rendered on HTML5 <canvas>.
+  
 You will learn the basics of using the <canvas> element to implement fundamental game mechanics like rendering and moving images, collision detection, control mechanisms, and winning and losing states.
 
-REMEMBER:
+## REMEMBER:
 It's important to read the docs before proceeding to look at the code.
 
 The game development is partitioned into 10 steps.
