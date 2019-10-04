@@ -1,0 +1,31 @@
+Introduction:
+
+In this step-by-step tutorial we create a simple MDN Breakout game written entirely in pure JavaScript and rendered on HTML5 <canvas>.
+
+You will learn the basics of using the <canvas> element to implement fundamental game mechanics like rendering and moving images, collision detection, 
+control mechanisms, and winning and losing states.
+
+To get the most out of this series of articles you should already have basic to intermediate JavaScript knowledge. 
+After working through this tutorial you should be able to build your own simple Web games.
+
+The above image is a Gameplay screen from the game MDN Breakout where you can use your paddle to bounce the ball and destroy the brick field, with keeping
+the score and lives.
+
+Lesson details
+1. Create the Canvas and draw on it
+2. Move the ball
+3. Bounce off the walls
+4. Paddle and keyboard controls
+5. Game over
+6. Build the brick field
+7. Collision detection
+8. Track the score and win
+9. Mouse controls
+10. Finishing up
+
+Starting with pure JavaScript is the best way to get a solid knowledge of web game development.
+After that, you can pick any framework you like and use it for your projects. 
+Frameworks are just tools built with the JavaScript language; so even if you plan on working with them, it's good to learn about the language itself first to
+know what exactly is going on under the hood. 
+Frameworks speed up development time and help take care of boring parts of the game, but if something is not working as expected, you can always try to debug 
+that or just write your own solutions in pure JavaScript.
