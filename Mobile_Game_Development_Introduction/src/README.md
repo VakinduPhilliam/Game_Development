@@ -1,6 +1,5 @@
 # Learn how to build 2D HTML5 Breakout game with pure JavaScript
 
-Visit **[breakout.enclavegames.com](http://breakout.enclavegames.com/)** page for the list of available lessons.
 
 ![MDN Breakout gameplay](https://mdn.mozillademos.org/files/10383/mdn-breakout-gameplay.png)
 
